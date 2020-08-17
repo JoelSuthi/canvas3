@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: auto;
+  border:10px solid yellowgreen;
+  margin-right: auto;
+  margin-left: auto;
+}
